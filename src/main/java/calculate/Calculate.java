@@ -1,4 +1,4 @@
-package claculate;
+package calculate;
 
 import java.util.Scanner;
 import java.util.logging.Logger;

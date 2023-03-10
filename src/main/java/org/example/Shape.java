@@ -1,5 +1,5 @@
 package org.example;
-import claculate.Calculate;
+import calculate.Calculate;
 import java.util.logging.Level;
 
 public class  Shape extends Calculate {
